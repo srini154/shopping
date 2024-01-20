@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/srini154/shopping.git/static/css/main.a83a1a45.css",
+    "main.js": "/srini154/shopping.git/static/js/main.c6138bfc.js",
+    "static/js/787.c731040c.chunk.js": "/srini154/shopping.git/static/js/787.c731040c.chunk.js",
+    "index.html": "/srini154/shopping.git/index.html",
+    "main.a83a1a45.css.map": "/srini154/shopping.git/static/css/main.a83a1a45.css.map",
+    "main.c6138bfc.js.map": "/srini154/shopping.git/static/js/main.c6138bfc.js.map",
+    "787.c731040c.chunk.js.map": "/srini154/shopping.git/static/js/787.c731040c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a83a1a45.css",
+    "static/js/main.c6138bfc.js"
+  ]
+}
